@@ -1,0 +1,19 @@
+---
+label: Exhibition
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: slug
+  label: slug
+- type: file
+  name: featured
+  label: featured
+- type: text
+  name: end_date
+  label: end_date
+- type: text
+  name: category
+  label: category
