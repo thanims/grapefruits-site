@@ -15,7 +15,7 @@ fields:
 - type: text
   name: category
   label: category
-  default: exhibition
+  default: exhibitions
   hidden: true
 - name: end_date
   type: datetime
