@@ -12,8 +12,16 @@ fields:
   name: featured
   label: featured
 - type: text
-  name: end_date
-  label: end_date
-- type: text
   name: category
   label: category
+  default: exhibition
+  hidden: true
+- name: end_date
+  type: datetime
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: End Date
