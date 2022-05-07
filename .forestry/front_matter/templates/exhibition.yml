@@ -26,3 +26,5 @@ fields:
     time_format: 
     display_utc: false
   label: End Date
+pages:
+- _posts/2022-05-06-exhibition2.md
