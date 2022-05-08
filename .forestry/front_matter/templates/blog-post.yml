@@ -9,3 +9,5 @@ fields:
 - type: text
   name: category
   label: category
+pages:
+- about.md
