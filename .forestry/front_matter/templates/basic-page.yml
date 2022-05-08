@@ -1,0 +1,13 @@
+---
+label: Basic Page
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: file
+  name: featured
+  label: featured
