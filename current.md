@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: current
 title: Current Exhibition
-featured: logo.png
-
+featured:
 ---
+
+Hi! Here's the most recent exhibition. It'll show up automatically.
