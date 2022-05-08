@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Current Exhibiton
+title: Current Exhibition
 featured: logo.png
 
 ---
