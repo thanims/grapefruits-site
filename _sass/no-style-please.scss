@@ -22,7 +22,9 @@ body[a="dark"] { @include dark-appearance; }
 
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
-html, body { background: white; }
+html, body {
+
+}
 
 html { height: 100%; }
 
@@ -33,6 +35,10 @@ body {
   margin: 0;
   min-height: 100%;
   overflow-wrap: break-word;
+  background: url("/uploads/background.jpg");
+  background-attachment: fixed;
+  font-size: 200%;
+
 }
 
 .post-meta { text-align: right; }
@@ -50,7 +56,7 @@ li { margin: 0.4rem 0; }
 .w {
   max-width: 80vw;
   margin: 0 auto;
-  padding: 4rem 2rem;
+  padding: 0rem 2rem;
 }
 
 hr {
@@ -100,10 +106,13 @@ img {
   padding-bottom: 3rem;
 }
 
-body.home {
-  .page-content {
-    background-color: rgba(255, 192, 203, .6);
-    color: wheat;
-    min-height: 100vh;
+main.page-content {
+  background-color: rgba(255, 192, 203, .6);
+  min-height: 100vh;
   }
+
+#menu {
+  max-width: 80vw;
+  margin: 0 auto;
+  padding: 2rem;
 }

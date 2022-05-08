@@ -3,6 +3,13 @@
   {%- include head.html -%}
   <body a="{{ site.theme_config.appearance | default: "auto" }}">
     <main class="page-content" aria-label="Content">
+      <div id="menu">
+        <span>{%-include back_link.html-%} </span>
+        <span><a href="/current">Current</a></span>
+        <span><a href="/upcoming">Upcoming</a></span>
+        <span><a href="/exhibitions">Past</a></span>
+        <span><a href="/about">About</a></span>
+      </div>
       <div class="w">
         {{ content }}
       </div>
