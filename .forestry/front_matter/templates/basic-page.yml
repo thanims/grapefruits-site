@@ -12,3 +12,5 @@ fields:
 - type: file
   name: featured
   label: featured
+pages:
+- about.md
