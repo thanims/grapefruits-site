@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Upcoming
+title: upcoming
 featured: ''
 
 ---
