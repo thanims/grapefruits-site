@@ -2,6 +2,10 @@
 layout: page
 title: Upcoming
 featured: ''
----
 
-This is the Upcoming Exhibition page. It has to be edited manually.
+---
+clearings
+
+5/27/22-5/28/22
+
+featuring work from kate laster, nim daghlian, and martha daghlian
