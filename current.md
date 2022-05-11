@@ -1,7 +1,6 @@
 ---
 layout: current
 title: Current Exhibition
-featured:
----
+featured: 
 
-Hi! Here's the most recent exhibition. It'll show up automatically.
+---
