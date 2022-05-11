@@ -1,9 +1,9 @@
 ---
 layout: archive
 which_category: exhibitions
-title: Exhibitions
----
+title: exhibitions
 
+---
 ## [Current Exhibition](/current) 
 
 ## Past Exhibitions
