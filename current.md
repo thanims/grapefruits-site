@@ -1,6 +1,6 @@
 ---
 layout: current
-title: Current Exhibition
+title: current exhibition
 featured: 
 
 ---
