@@ -4,6 +4,6 @@ which_category: exhibitions
 title: exhibitions
 
 ---
-## [Current Exhibition](/current) 
+## [current exhibition](/current)
 
-## Past Exhibitions
+## past exhibitions
