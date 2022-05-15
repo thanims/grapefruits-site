@@ -5,7 +5,7 @@ featured: ''
 category: ''
 
 ---
-grapefruits art space is an art gallery based on 1.75 acres of forested land in central vermont. it is run by [martha daghlian ](www.marthadaghlian.com)
+grapefruits art space is an art gallery based on 1.75 acres of forested land in central vermont. it is run by [martha daghlian ](marthadaghlian.com)
 
 grapefruits was recently relocated from portland, oregon. it will host two exhibitions each year: one site-specific show on the land in the warmer months, and one remote show during the winter that engages with the land as a subject or collaborator. please get in touch if you have questions: grapefruitjuiceartists (at) gmail (dot) com
 
