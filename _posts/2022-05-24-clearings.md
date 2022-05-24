@@ -3,7 +3,7 @@ layout: post
 category: exhibitions
 slug: clearings
 featured: "/uploads/clearingspromo1.jpg"
-end_date: 2022-04-30 19:00:00 +0000
+end_date: 2022-07-31 19:00:00 +0000
 
 ---
 grapefruits art space is proud to announce _clearings_, the first show in our new location on a wooded lot in central vermont. this two-day installation features works on paper and in textiles by [kate laster](https://katelaster.com/), [ním daghlian](http://nimdaghlian.com/art/), and [martha daghlian](http://www.marthadaghlian.com/). a clearing in the woods seems to tell you something about where you are, but only in relation to the unknown that surrounds it. what can be learned from deep observation of a tiny fragment of earth? what kinds of signs and messages can help to guide you through an unfamiliar landscape? what does the clearing look like from the woods?
